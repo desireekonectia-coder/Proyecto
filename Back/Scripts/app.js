@@ -1,6 +1,5 @@
-// Este mensaje saldrá en la consola al cargar la página
-console.log("Archivo cargado con éxito");
+alert("¡Si ves esto, el archivo por fin está bien conectado!");
 
 function saludar() {
-    alert("¡Hola! El enlace funciona perfectamente.");
+    alert("¡Hola! Ahora el botón sí funciona.");
 }
