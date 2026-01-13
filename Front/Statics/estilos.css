@@ -1,0 +1,13 @@
+/* Seleccionamos la etiqueta 'body' por su nombre */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Seleccionamos el enlace 'a' y cambiamos su color */
+a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
